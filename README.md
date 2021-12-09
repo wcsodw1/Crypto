@@ -15,3 +15,11 @@ Crypto
 + NPM : The package manager of node.js, used to install dependencies and tools for blockchain development.
 
 ### Smart Contract development :
+
+The most important part of blockchain app is Smart-Contract
+
++ Gas Optimization : lower execution cost
++ Smart contract is such so powerful that with a normal program you will have to integrate with the payment service like Paypal, but you need to have a permisssion to do this, and will constrained by the API.
++ Can write any logic you want for moving them
+
+### Solidity : 
